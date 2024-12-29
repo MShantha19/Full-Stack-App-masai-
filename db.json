@@ -1,0 +1,17 @@
+{
+  "accounts": [
+    {
+  "id": 1,
+  "email": "user@example.com",
+  "password": "securepassword"
+}
+
+  ],
+  "todos": [
+    {
+  "id": 1,
+  "text": "Buy groceries"
+}
+
+  ]
+}
